@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="uno">Numero Uno</string>
+    <string name="dos">Numero Dos</string>
+    <string name="btsuma">Suma</string>
+    <string name="btresta">Resta</string>
+    <string name="btdivision">Division</string>
+    <string name="btmultiplicacion">Multiplicacion</string>
+
+
+</resources>
